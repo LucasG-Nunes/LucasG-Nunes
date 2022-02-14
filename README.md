@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Lucas. 👋
 
-- 🔭 Hoje eu trabalho com front-end
-
 ##
 
 <div align="center">
