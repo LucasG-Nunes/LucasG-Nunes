@@ -23,7 +23,6 @@
   <h2>Back end</h2>
   <img align="center"  height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
   <img align="center"  height="40" width="40" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
-  <img align="center"  height="40" width="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png">
   <img align="center"  height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
 </div>
   
