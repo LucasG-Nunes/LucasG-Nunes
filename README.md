@@ -17,6 +17,7 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+    <img height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 </div>
 
 ### Main Frameworks and Libraries
@@ -27,7 +28,7 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-
+<img height="30" width="40" src="https://cdn.cdnlogo.com/logos/a/24/angular-icon.svg" />
 
 
 </div>
@@ -37,9 +38,6 @@
 <div style="display: inline-block">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img src="https://i.imgur.com/DqK9hhA.png" />
-
-
-
-
+  <img height="30" width="40" src="https://i.imgur.com/DqK9hhA.png" />
+  <img height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1AcRZJ6zbh6cX_CJGY8643fgoDKYso69Gg&usqp=CAU" />
 </div>
