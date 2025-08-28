@@ -33,6 +33,32 @@
 
 ---
 
+
+# 👨‍💻 Featured Projects  
+
+### ⚖️ Processo Judicial Eletrônico (PJe) – CNJ  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_cnj.jpg" alt="Logo CNJ" width="150" height="150">
+
+Development and maintenance of the **Brazilian National Justice Council (CNJ)**'s **Electronic Judicial Process System (PJe)**, used by millions of citizens and professionals annually.  
+- Contributed to improving performance and usability.  
+- Collaborated with UX/UI and automation teams to enhance accessibility and test coverage.  
+
+---
+
+### 💰 Sistema Nacional de Precatórios (SisPreq) – CNJ  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_cnj.jpg" alt="Logo CNJ" width="150" height="150">
+
+
+Development of the **SisPreq** system for the **CNJ**, enabling national management of court-ordered debts (*precatórios*).  
+
+📖 References:  
+- [CNJ Official Release](https://www.cnj.jus.br/cnj-apresenta-sistema-nacional-de-precatorios-a-tribunais)  
+- [MeuPrecatório Blog](https://blog.meuprecatorio.com.br/cnj-lanca-sispreq-para-gestao-de-precatorios)  
+
+---
+
+
+
 ## 🌎 Let's Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-gnunes)  
