@@ -1,43 +1,43 @@
-### Hello! I´m Lucas. 👋
+# 👋 Hi, I'm Lucas Nunes  
 
-##
+💻 **Full Stack Engineer**  
+🌐 **Web2**: Angular | Node.js | TypeScript  
+☁️ **Cloud**: AWS (Lambda, S3, EC2, DynamoDB) | Docker | CI/CD  
+🔗 **Web3**: Solidity | Smart Contracts | dApps  
 
-<div align="center">
-  <a href="https://github.com/LucasG-Nunes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasG-Nunes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasG-Nunes&layout=compact&langs_count=7&theme=radical"/>
-</div>
- 
+---
 
-  
-### I'm used to work with
-<div style="display: inline-block">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-    <img height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-</div>
+## 📊 GitHub Stats  
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasG-Nunes&show_icons=true&theme=radical)  
 
-### Main Frameworks and Libraries
+## 🔥 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasG-Nunes&layout=compact&theme=radical)  
 
-<div style="display: inline-block">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img height="30" width="40" src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-<img height="30" width="40" src="https://cdn.cdnlogo.com/logos/a/24/angular-icon.svg" />
+---
+
+## 🛠️ Tech Stack  
+
+### Web2  
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)  
+
+### Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?logo=gitlab&logoColor=white)  
+
+### Web3  
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)  
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)  
+
+---
+
+## 🌎 Let's Connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-gnunes)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucasgnam38@gmail.com)  
 
 
-</div>
-
-### Most used tools
-
-<div style="display: inline-block">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="30" width="40" src="https://i.imgur.com/DqK9hhA.png" />
-  <img height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1AcRZJ6zbh6cX_CJGY8643fgoDKYso69Gg&usqp=CAU" />
-</div>
+---
+✨ Always learning, building and innovating across **Web2, Cloud & Web3** 🚀
